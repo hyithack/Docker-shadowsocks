@@ -25,7 +25,7 @@ docker version && ${COLOR}"Docker安装成功"${END} || ${COLOR}"Docker安装失
 
 #### 2.Docker-compose下载安装
 
-==GItHub项目地址:==https://github.com/docker/compose/releases/tag/1.29.2
+GItHub项目地址:https://github.com/docker/compose/releases/tag/1.29.2
 
 ##### 2.1 下载Docker-compose放入/usr/local/bin/并修改名称为docker-compose
 
